@@ -1,7 +1,7 @@
 # Импортируем всё из библиотеки.
 from DijkstraAlgorithm import *
 # Импортируем всё из заранее подготовленной библиотеки.
-from UnorientedGraph import * # https://github.com/TimofeyTanuki/Python_UnorientedGraph
+from UnorientedGraph import * # https://github.com/TimofeyTanuki/Python_Structures
 
 newUnorientedGraph = UnorientedGraph("TestFiles/Graph.dat")
 print(newUnorientedGraph) # Выводим граф.
